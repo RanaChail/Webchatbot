@@ -6,7 +6,7 @@ const chatCloseBtn = document.querySelector(".close-btn");
 
 
 let userMessage;
-const API_KEY = "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";
+const API_KEY = "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";
 const inputHeight = chatInput.scrollHeight;
 
 
